@@ -1,0 +1,16 @@
+{
+ "oracle_class": "compute-oracle",
+ "oracle_type": "codegen-conformance",
+ "title": "Konformancia-felulet: acronym (php, kanonikus exercism korpusz)",
+ "owner": "harvest",
+ "verify": "python3 verify.py",
+ "hardware_free_verify": true,
+ "publish_ready": true,
+ "measurement_byte_lock": "75a08620b08b4e85e0258df9a7357f0036026bbf7dee1c0b0d4d9bbe9bc970ef",
+ "evidence_band": "empirical-corpus",
+ "evidence_basis": "sealed ujrafuttatas a KOZOLT kanonikus korpuszon; nem szimbolikus",
+ "not_comparable_with": "symbolic-full-input-space (KLEE-alapu conformance)",
+ "runtime_dependency": "php",
+ "summary": "7 kanonikus bemenet/kimenet par, 7 distinct; a referencia PROVEN (pin=6ddf7d9e22e07493)",
+ "scope_note": "NEM altalanos helyesseg-orakulum; a kozolt korpuszon kivul semmit nem allit."
+}

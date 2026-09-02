@@ -1,0 +1,7 @@
+{"input": "Portable Network Graphics", "expect": "PNG", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "Ruby on Rails", "expect": "ROR", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "First In, First Out", "expect": "FIFO", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "GNU Image Manipulation Program", "expect": "GIMP", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "Complementary metal-oxide semiconductor", "expect": "CMOS", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "Rolling On The Floor Laughing So Hard That My Dogs Came Over And Licked Me", "expect": "ROTFLSHTMDCOALM", "raised": false, "task": "acronym", "lang": "php"}
+{"input": "Something - I made up from thin air", "expect": "SIMUFTA", "raised": false, "task": "acronym", "lang": "php"}
